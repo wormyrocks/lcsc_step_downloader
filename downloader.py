@@ -39,7 +39,7 @@ def get_model(lcsc_id=None):
 
 @app.route("/")
 def index():
-    return """<form action="/get_model" method="GET">LCSC ID : <input type="text" name="lcsc_id"> <input type="submit" value="Download"></form>"""
+    return """<title>LCSC STEP downloader</title><h2>LCSC STEP file downloader</h2><form action="/get_model" method="GET">LCSC ID: <input type="text" name="lcsc_id"> <input type="submit" value="Download"></form>"""
     
 if __name__ == '__main__':
     app.run()
