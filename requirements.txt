@@ -1,0 +1,17 @@
+annotated-types==0.7.0
+blinker==1.8.2
+certifi==2024.7.4
+charset-normalizer==3.3.2
+click==8.1.7
+easyeda2kicad==0.8.0
+Flask==3.0.3
+idna==3.7
+itsdangerous==2.2.0
+Jinja2==3.1.4
+MarkupSafe==2.1.5
+pydantic==2.8.2
+pydantic_core==2.20.1
+requests==2.32.3
+typing_extensions==4.12.2
+urllib3==2.2.2
+Werkzeug==3.0.3
