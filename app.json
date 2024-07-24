@@ -1,0 +1,6 @@
+{
+	"name": "lcsc_downloader",
+	"description": "Download step files from LCSC using easyeda2kicad python lib",
+	"repository": "https://github.com/wormyrocks/lcsc_step_downloader",
+	"keywords": ["flask", "heroku"]
+}
