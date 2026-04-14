@@ -3,7 +3,7 @@ blinker==1.8.2
 certifi==2024.7.4
 charset-normalizer==3.3.2
 click==8.1.7
-easyeda2kicad==0.8.0
+easyeda2kicad==1.0.1
 Flask==3.0.3
 gunicorn==22.0.0
 idna==3.7
